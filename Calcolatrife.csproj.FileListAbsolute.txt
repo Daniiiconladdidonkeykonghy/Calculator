@@ -1,0 +1,11 @@
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\bin\Debug\Calcolatrife.exe.config
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\bin\Debug\Calcolatrife.exe
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\bin\Debug\Calcolatrife.pdb
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\obj\Debug\Calcolatrife.csproj.AssemblyReference.cache
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\obj\Debug\Calcolatrife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\obj\Debug\Calcolatrife.Properties.Resources.resources
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\obj\Debug\Calcolatrife.csproj.GenerateResource.cache
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\obj\Debug\Calcolatrife.csproj.CoreCompileInputs.cache
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\obj\Debug\Calcolatrife.exe
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\obj\Debug\Calcolatrife.pdb
+C:\Users\Hp2021\Desktop\Calcolatrife\Calcolatrife\obj\Debug\Calcolatrife.Form1.resources
